@@ -1,0 +1,12 @@
+{
+  "name": "neutropy-vercel-monitor",
+  "version": "1.0.0",
+  "description": "Vercel deployment monitor with WhatsApp alerts and auto-rollback",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
